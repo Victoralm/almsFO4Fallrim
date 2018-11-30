@@ -1,5 +1,5 @@
 # almsFO4Fallrim
-This script smooths the usage of [Fallrim](https://www.nexusmods.com/fallout4/mods/22633?tab=files) on Linux.
+This script smooths the usage of [FallrimTools](https://www.nexusmods.com/fallout4/mods/22633?tab=files) on Linux.
 
 Constructive suggestions on improving the script are welcome.
 
@@ -43,7 +43,7 @@ Or logoff/login on your system account.
 (Yep, I easelly forget things so...)
 
 * [Java 8 on Ubuntu](http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html) - Tutorial on how to install Java 8 on Ubuntu
-* [Fallrim](https://www.nexusmods.com/fallout4/mods/22633?tab=files) - Download Fallrim
+* [FallrimTools](https://www.nexusmods.com/fallout4/mods/22633?tab=files) - Download Fallrim
 
 * [f4se](https://f4se.silverlock.org/) - Download f4se
 
