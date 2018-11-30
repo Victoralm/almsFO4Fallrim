@@ -23,7 +23,7 @@ On my system, I've made symbolic links for the savegame folder and also for the 
 ```
 <SteamLibraryLocation>/steamapps/compatdata/377160/pfx/drive_c/users/steamuser/My Documents/My Games/Fallout4
 ```
-Obviously the ```<SteamLibraryLocation>``` must be changed to your actualy Steam Library Location on your system.
+Obviously the ```<SteamLibraryLocation>``` must be changed to your actualy Steam Library location on your system.
 
 The script checks if you already alterated the necessary paths.
 
