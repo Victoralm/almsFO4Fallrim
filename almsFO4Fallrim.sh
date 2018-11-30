@@ -4,10 +4,10 @@
 ####################### Run Fallrim Save Cleaner on Linux #####################
 #title           :almsFO4Fallrim.sh
 #description     :This script smooths the usage of Fallrim on Linux
-#author		     :Victoralm (victoralmlinx@gmail.com)
+#author          :Victoralm (victoralmlinx@gmail.com)
 #date            :2018/11/30
 #version         :0.2    
-#usage		     :./mkscript.sh
+#usage           :./almsFO4Fallrim.sh
 #notes           :Install Java 8 and Fallrim to use this script, then edit the paths below.
 #bash_version    :versão 4.4.19(1)-release (x86_64-pc-linux-gnu)
 ###############################################################################
