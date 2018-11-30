@@ -49,6 +49,10 @@ Or logoff/login on your system account.
 
 * [f4se on Proton](https://www.reddit.com/r/wine_gaming/comments/9uk36c/fallout_4_how_to_get_fallout_4_script_extender/) - Tutorial on how to use f4se on Steam Proton
 
+* [Fallout 4 issues](https://github.com/ValveSoftware/Proton/issues/308) - Github page
+
+* [Fallout 4 Protondb](https://www.protondb.com/app/377160) - Protondb page
+
 
 ## Acknowledgments
 My english is a work in progress, as a ton of things that I want to do. And I'm not growing youngger... :worried::stuck_out_tongue_winking_eye:
