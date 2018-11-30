@@ -25,7 +25,7 @@ On my system, I've made symbolic links for the savegame folder and also for the 
 ```
 Obviously the ```<SteamLibraryLocation>``` must be changed to your actualy Steam Library location on your system.
 
-The script checks if you already alterated the necessary paths.
+The script checks if you already changed the necessary paths.
 
 #### Access from anywhere
 
