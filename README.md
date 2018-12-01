@@ -33,7 +33,7 @@ This script has an option to add itself as an alias in the ~/.profile. So it can
 ```
 fallrim
 ```
-This option must need reload the ~/.profile:
+This option must need reload the ~/.profile through the terminal:
 ```
 source ~/.profile
 ```
