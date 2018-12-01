@@ -29,7 +29,7 @@ The script checks if you already changed the necessary paths.
 
 #### Access from anywhere
 
-This script has an option to add itself as an alias in the ```bash ~/.profile```. So it can be called, from any terminal, as:
+This script has an option to add itself as an alias in the ```~/.profile```. So it can be called, from any terminal, as:
 ```bash
 fallrim
 ```
