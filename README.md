@@ -14,7 +14,7 @@ This can be done by changing the lines:
 fo4savepath="NEEDTOBECHANGED"
 ```
 and:
-```
+```bash
 fallrimpath="NEEDTOBECHANGED"
 ```
 I put comments in the file with an example of path for this variables. Be cool that you can use paths with spaces by all the means.
